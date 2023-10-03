@@ -1,0 +1,38 @@
+body{
+    font-family: 'Prata', serif;
+    background-color:bisque ;
+    color: darkred;
+    margin: 20px
+}
+h2{
+    font-family:'Oswald', sans-serif;
+    font-size: 50px;
+    margin: 20px
+}
+h2:hover{
+    color:darkgoldenrod;
+    font-size: 70px;
+}
+hr{
+    border-top: 5px dashed;
+    border-bottom: 0px;
+}
+a{
+    color: darkred;
+}
+a:hover{
+    color: darkgoldenrod;
+    font-size: 20px;
+}
+#text-border{
+    border: 5px dashed;
+    padding: 20px;
+    border-radius: 10px;
+}
+#img-border{
+    color: darkgoldenrod;
+    margin: 20px;
+    border: 5px dashed;
+    padding: 20px;
+    border-radius: 10px;
+}
